@@ -1,0 +1,222 @@
+China has started a grand
+experiment in AI education. It
+could reshape how the world
+learns.
+Karen Hao
+Zhou Yi was terrible at math. He risked never getting into college. Then a company called
+Squirrel AI came to his middle school in Hangzhou, China, promising personalized tutoring.
+He had tried tutoring services before, but this one was different: instead of a human teacher,
+an AI algorithm would curate his lessons. The 13-year-old decided to give it a try. By the end
+of the semester, his test scores had risen from 50% to 62.5%. Two years later, he scored an
+85% on his final middle school exam.
+“I used to think math was terrifying,” he says. “But through tutoring, I realized it really isn’t
+that hard. It helped me take the first step down a different path.”
+Experts agree AI will be important in 21st-century education—but how? While academics
+have puzzled over best practices, China hasn’t waited around. In the last few years, the
+country’s investment in AI-enabled teaching and learning has exploded. Tech giants,
+startups, and education incumbents have all jumped in. Tens of millions of students now use
+some form of AI to learn—whether through extracurricular tutoring programs like Squirrel’s,
+through digital learning platforms like 17ZuoYe, or even in their main classrooms. It’s the
+world’s biggest experiment on AI in education, and no one can predict the outcome.
+Silicon Valley is also keenly interested. In a report in March, the Chan-Zuckerberg Initiative
+and the Bill and Melinda Gates Foundation identified AI as an educational tool worthy of
+investment. In his 2018 book Rewiring Education, John Couch, Apple’s vice president of
+education, lauded Squirrel AI. (A Chinese version of the book is coauthored by Squirrel’s
+founder, Derek Li.) Squirrel also opened a joint research lab with Carnegie Mellon University
+this year to study personalized learning at scale, then export it globally.
+But experts worry about the direction this rush to AI in education is taking. At best, they say,
+AI can help teachers foster their students’ interests and strengths. At worst, it could further
+entrench a global trend toward standardized learning and testing, leaving the next generation
+ill prepared to adapt in a rapidly changing world of work.
+As one of the largest AI education companies in China, Squirrel highlights this tension. And
+as one of the best-poised to spread overseas, it offers a window into how China’s
+experiments could shape the rest of the world.
+Zhou Yi taking a math tutoring class with Squirrel AI.
+Noah Sheldon
+The learning center that Zhou attends, one of the first that Squirrel opened, occupies the
+second floor of an unassuming building on a busy commercial road in Hangzhou, a secondtier
+city in Zhejiang province. Company awards line the walls in the stairwell. Further in, large
+photographs of at least a dozen men are on display: half of them are Squirrel AI’s executives
+and the others are master teachers, a title bestowed on the best teachers in China, who help
+develop the company’s curriculum.
+The school’s interior decorations are modest. The foyer is small and colorful with lime-green
+accents. Photos of smiling students hang along the corridor between six or so classrooms.
+Inside, faded decals of trees and simple mottos like “Be humble” enliven the walls. There are
+no whiteboards, projectors, or other equipment—just one table per room, meant for six to
+eight people.
+The vehicle of instruction is the laptop. Students and teachers alike stare intently at screens.
+In one room, two students wear headsets, engrossed in an English tutoring session. In
+another, three students, including Zhou, take three separate math classes. They work out
+practice problems on pieces of paper before submitting their answers online. In each room, a
+teacher monitors the students through a real-time dashboard.
+At different points, both teachers notice something on their screen that prompts them to walk
+over and kneel by a student’s chair. They speak in hushed tones, presumably to answer a
+question the tutoring system can’t resolve. Though I’m just feet away, I can’t distinguish their
+words above the soft hum of traffic on the street below.
+“It’s so quiet,” I whisper to the small gang of school and company staff assembled for my
+tour. The Hangzhou regional director smiles with what I interpret as a hint of pride: “There are
+no sounds of teachers lecturing.”
+Students at Squirrel receive help from their teacher.
+NOah Sheldon
+Three things have fueled China’s AI education boom. The first is tax breaks and other
+incentives for AI ventures that improve anything from student learning to teacher training to
+school management. For VCs, this means such ventures are good bets. According to one
+estimate, China led the way in over $1 billion invested globally last year in AI education.
+Second, academic competition in China is fierce. Ten million students a year take the college
+entrance exam, the gaokao. Your score determines whether and where you can study for a
+degree, and it’s seen as the biggest determinant of success for the rest of your life. Parents
+willingly pay for tutoring or anything else that helps their children get ahead.
+Finally, Chinese entrepreneurs have masses of data at their disposal to train and refine their
+algorithms. The population is vast, people’s views on data privacy are much more lax than in
+the West (especially if they can get coveted benefits like academic performance in return),
+and parents are big believers in the potential of technology, having seen how much it has
+transformed the country in just a few decades.
+Squirrel focuses on helping students score better on annual standardized tests, which taps
+straight into national gaokao anxiety; more than 80% of its students return year after year, itsays. It also designed its system to capture ever more data from the beginning, which has
+made possible all kinds of personalization and prediction experiments. It heavily markets its
+technical capabilities through academic publications, international collaborations, and
+awards, which has made it a darling of the Shanghai local government.
+The strategy has fueled mind-boggling growth. In the five years since it was founded, the
+company has opened 2,000 learning centers in 200 cities and registered over a million
+students—equal to New York City’s entire public school system. It plans to expand to 2,000
+more centers domestically within a year. To date, the company has also raised over $180
+million in funding. At the end of last year, it gained unicorn status, surpassing $1 billion in
+valuation.
+Squirrel AI's headquarters in Shanghai.
+Noah Sheldon
+Squirrel isn’t the first company to pursue the concept of an AI tutor. The earliest efforts to
+“replicate” teachers date back to the 1970s, when computers first started being used in
+education. Then, between 1982 and 1984, several studies in the US showed that students
+who received one-on-one human tutoring performed far better than students who didn’t. This
+set off a new wave of efforts to re-create that kind of individual attention in a machine. The
+result was adaptive learning systems, which can now be found everywhere from
+kindergartens to workplace training centers.
+Squirrel’s innovation is in its granularity and scale. For every course it offers, its engineering
+team works with a group of master teachers to subdivide the subject into the smallest
+possible conceptual pieces. Middle school math, for example, is broken into over 10,000
+atomic elements, or “knowledge points,” such as rational numbers, the properties of a
+triangle, and the Pythagorean theorem. The goal is to diagnose a student’s gaps in
+understanding as precisely as possible. By comparison, a textbook might divide the same
+subject into 3,000 points; ALEKS, an adaptive learning platform developed by US-based
+McGraw-Hill, which inspired Squirrel’s, divides it into roughly 1,000.
+Once the knowledge points are set, they are paired with video lectures, notes, worked
+examples, and practice problems. Their relationships—how they build on each other and
+overlap—are encoded in a “knowledge graph,” also based on the master teachers’
+experience.
+Squirrel AI's engineers work on buidling the company's tutoring platform.
+Noah Sheldon
+A student begins a course of study with a short diagnostic test to assess how well she
+understands key concepts. If she correctly answers an early question, the system will
+assume she knows related concepts and skip ahead. Within 10 questions, the system has a
+rough sketch of what she needs to work on, and uses it to build a curriculum. As she studies,
+the system updates its model of her understanding and adjusts the curriculum accordingly.
+As more students use the system, it spots previously unrealized connections between
+concepts. The machine-learning algorithms then update the relationships in the knowledge
+graph to take these new connections into account. While ALEKS does some of this as well,Squirrel claims that its machine-learning optimizations are more limited, making it, in theory,
+less effective.
+Squirrel has offered some validation of its system. In October 2017, for example, a selffunded
+four-day study with 78 middle school students found that the system was better on
+average at lifting math test scores than experienced teachers teaching a dozen or so kids in
+a traditional classroom.
+The students I speak to at the learning center have high praise for the tutoring program as
+well. All are finishing middle school and have been coming to the center for more than a year.
+One girl, Fu Weiyi, tells me she’s improved far faster than when she got individual tutoring
+from a human teacher. “Here, I have a teacher both on and offline,” she says. “Plus, the
+instruction is very targeted; the system can directly identify the gaps in my understanding.”
+Another student echoes the sentiment: “With the system, you don’t have to do tons of
+exercises, but it’s still effective. It really saves time.”
+While I have to take their words with a grain of salt—the students are hand-picked and give
+their testimonials under intense supervision—I’m still touched by their relief that they’ve
+found a formula that works to ameliorate the often brutal academic environment. Zhou Yi’s
+story, perhaps not coincidentally, also neatly illustrates how Squirrel can help struggling
+students.
+For Squirrel’s founder Li, this vision doesn’t stop at tutoring. He has ambitions to break out of
+the confines of after-school programming and integrate his curriculum directly into the main
+classroom. Squirrel is already in discussion with several schools in China to make its system
+the primary method of instruction.
+I try to imagine what this world might be like, and whether we might be better off for it. I ask
+the students one last question: Is there anything that Squirrel could improve? A long pause.
+Then: “I wish we had more interaction with our human teachers,” Fu says.
+A teacher helping a student via video as part of Squirrel's new remote
+tutoring program.
+Noah Sheldon
+Every educational expert I spoke to for this story began by making the same point: to
+understand how AI could improve teaching and learning, you need to think about how it is
+reshaping the nature of work.
+As machines become better at rote tasks, humans will need to focus on the skills that remain
+unique to them: creativity, collaboration, communication, and problem-solving. They will also
+need to adapt quickly as more and more skills fall prey to automation. This means the 21stcentury
+classroom should bring out the strengths and interests of each person, rather than
+impart a canonical set of knowledge more suited for the industrial age.
+AI, in theory, could make this easier. It could take over certain rote tasks in the classroom,
+freeing teachers up to pay more attention to each student. Hypotheses differ about what that
+might look like. Perhaps AI will teach certain kinds of knowledge while humans teach others;
+perhaps it will help teachers keep track of student performance or give students more control over how they learn. Regardless, the ultimate goal is deeply personalized teaching.
+A wall at Squirrel's headquarters showing examples of underperforming
+students whom the platform "saved."
+Noah Sheldon
+Squirrel’s approach may yield great results on traditional education, but it doesn’t prepare
+students to be flexible in a changing world, the experts I spoke to say. “There’s a difference
+between adaptive learning and personalized learning,” says Chris Dede, a professor at
+Harvard University in the Technology, Innovation, and Education Program. Squirrel is doing
+adaptive learning, which is about “understanding exactly what students know and don’t
+know.” But it pays no attention to what they want to know or how they learn best.
+Personalized learning takes their interests and needs into account to “orchestrate the
+motivation and time for each student so they are able to make progress.” 
+Jutta Treviranus, a professor at the Ontario College of Art and Design University who
+pioneered personalized learning to improve inclusivity in education, breaks it down further.
+“Personalized learning has a number of levels,” she says: she calls them pace, path, and
+destination.
+If the pace of learning is personalized, students with different abilities are allowed different
+amounts of time to learn the same material. If the path is personalized, students might be
+given different motivations to reach the same objectives (“Here’s why statistics is relevant to
+your love of baseball”) and offered the material in different formats (e.g., video versus text). If
+the destination is personalized, students can choose, for instance, whether to learn with a
+vocational school or a university in mind.
+“We need students to understand their own learning. We need them to determine what they
+want to learn, and we need them to learn to learn,” Treviranus says. “Squirrel AI doesn’t
+address those things at all. It only makes it more efficient to bring all of the students to the
+same standardized place.”
+That doesn’t mean that adaptive learning systems won’t have any place in the 21st-century
+classroom. David Dockterman, a colleague of Dede’s, believes their strength in training
+people on structured knowledge is still valuable. But it would be a mistake to make them the
+predominant “teacher” in the classroom: “The kinds of rote activities—knowledge retrieval,
+skill acquisition—that are more readily teachable with a smart tutor are also the things that
+are more readily accomplished by a smart machine,” he says.
+Derek Li, Squirrel AI's founder
+Noah Sheldon
+Li, Squirrel’s founder, is tall and lanky and has severe cheekbones. When he speaks English,
+he punctuates every few sentences with “Right?,” eyebrows raised, to make sure you’re on
+the same page. When he speaks Mandarin, his words tumble out twice as fast.
+A week after my visit to the learning center, I meet him at Squirrel’s headquarters in
+Shanghai. In the style of an understated showman, he gives me the grand tour. The modesty of the learning center stands in sharp contrast to the office décor here: each wall boasts of
+different details about the company and milestones it’s reached. Here’s one with all its media
+mentions. Here’s another with all its awards. And here are some examples of students who
+were deemed “hopeless” and then saved. I run into another tour before I’ve finished my own.
+A few steps past the first door, Li points out a screen to my immediate left playing a TV clip
+on repeat. It’s a game show featuring a showdown between Squirrel’s tutoring system and a
+human teacher—one of the best in China, he says. Three of the teacher’s students, whom
+he has taught for three years, stand alongside him on stage solving problems. The system
+and the teacher compete to predict which ones they will get right.
+Li doesn’t wait for the clip to end to reveal the punchline: “In three hours we understand
+students more than the three years spent by the best teachers.”
+On screen, the teacher looks increasingly crestfallen and humiliated. “He looks so sad,” I say.
+“You noticed!” Li laughs.
+Much of Squirrel’s philosophy stems from Li’s own experiences as a child. When he was
+young, he didn’t have very good emotional intelligence, he says, and reading books on the
+subject didn’t help. So he spent half a year dividing the skill into 27 different components and
+trained himself on each one. He trained himself to be more observant, for example, and to be
+an interesting conversationalist (“I spent a lot of time finding 100 topics, so I have a lot of
+material to talk with others,” he says). He even trained himself to keep smiling when others
+criticized him. (“After that, in my life, I do not have any enemies.”) The method gave him the
+results he wanted—along with the firm belief that anything can be taught this way. Li uses an analogy to lay out his ultimate vision. “When AI education prevails,” he says,
+“human teachers will be like a pilot.” They will monitor the readouts while the algorithm flies
+the plane, and for the most part they will play a passive role. But every so often, when there’s
+an alert and a passenger panics (say, a student gets bullied), they can step in to calm things
+down. “Human teachers will focus on emotional communication,” he says.
+Li thinks this is the only way humanity will be able to elevate its collective intelligence.
+Entrusting teachers with anything else could risk “damaging geniuses.” He’s playing out this
+philosophy on his own kids, using Squirrel’s system as much as possible to train them. He
+boasts that his eight-year-old twin boys, in the second grade, are now learning eighth-grade
+physics, a testament that his method is working. “Only adaptive systems could make such
+miracles,” he says.
