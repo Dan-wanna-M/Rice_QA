@@ -1,3 +1,4 @@
 llama-index
 # llama-cpp-python needs to be installed as well. Follow instructions in https://github.com/abetlen/llama-cpp-python#installation-with-openblas--cublas--clblast--metal.
+# With nvidia graphics card, type the command: CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python
 transformers
